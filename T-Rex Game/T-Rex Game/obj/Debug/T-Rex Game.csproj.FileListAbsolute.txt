@@ -1,0 +1,10 @@
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\obj\Debug\T-Rex Game.csproj.AssemblyReference.cache
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\obj\Debug\T_Rex_Game.Form1.resources
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\obj\Debug\T_Rex_Game.Properties.Resources.resources
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\obj\Debug\T-Rex Game.csproj.GenerateResource.cache
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\obj\Debug\T-Rex Game.csproj.CoreCompileInputs.cache
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\bin\Debug\T-Rex Game.exe.config
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\bin\Debug\T-Rex Game.exe
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\bin\Debug\T-Rex Game.pdb
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\obj\Debug\T-Rex Game.exe
+C:\Users\38978\source\repos\T-Rex Game\T-Rex Game\obj\Debug\T-Rex Game.pdb
